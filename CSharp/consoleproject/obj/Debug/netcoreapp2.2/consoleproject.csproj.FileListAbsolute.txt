@@ -1,0 +1,11 @@
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/bin/Debug/netcoreapp2.2/consoleproject.deps.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/bin/Debug/netcoreapp2.2/consoleproject.runtimeconfig.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/bin/Debug/netcoreapp2.2/consoleproject.runtimeconfig.dev.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/bin/Debug/netcoreapp2.2/consoleproject.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/bin/Debug/netcoreapp2.2/consoleproject.pdb
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/obj/Debug/netcoreapp2.2/consoleproject.csprojAssemblyReference.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/obj/Debug/netcoreapp2.2/consoleproject.csproj.CoreCompileInputs.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/obj/Debug/netcoreapp2.2/consoleproject.AssemblyInfoInputs.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/obj/Debug/netcoreapp2.2/consoleproject.AssemblyInfo.cs
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/obj/Debug/netcoreapp2.2/consoleproject.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/CSharp/consoleproject/obj/Debug/netcoreapp2.2/consoleproject.pdb
