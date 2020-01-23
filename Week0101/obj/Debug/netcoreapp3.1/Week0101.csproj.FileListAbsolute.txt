@@ -1,0 +1,11 @@
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\bin\Debug\netcoreapp3.1\Week0101.exe
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\bin\Debug\netcoreapp3.1\Week0101.deps.json
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\bin\Debug\netcoreapp3.1\Week0101.runtimeconfig.json
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\bin\Debug\netcoreapp3.1\Week0101.runtimeconfig.dev.json
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\bin\Debug\netcoreapp3.1\Week0101.dll
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\bin\Debug\netcoreapp3.1\Week0101.pdb
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\obj\Debug\netcoreapp3.1\Week0101.csprojAssemblyReference.cache
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\obj\Debug\netcoreapp3.1\Week0101.AssemblyInfoInputs.cache
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\obj\Debug\netcoreapp3.1\Week0101.AssemblyInfo.cs
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\obj\Debug\netcoreapp3.1\Week0101.dll
+C:\Users\ayonaty\source\repos\ECE2310\Week0101\obj\Debug\netcoreapp3.1\Week0101.pdb

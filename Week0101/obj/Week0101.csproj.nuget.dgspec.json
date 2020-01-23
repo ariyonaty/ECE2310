@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\ECE2310_HW01_01\\ECE2310_HW01_01.csproj": {}
+    "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\Week0101\\Week0101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\ECE2310_HW01_01\\ECE2310_HW01_01.csproj": {
+    "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\Week0101\\Week0101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\ECE2310_HW01_01\\ECE2310_HW01_01.csproj",
-        "projectName": "ECE2310_HW01_01",
-        "projectPath": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\ECE2310_HW01_01\\ECE2310_HW01_01.csproj",
+        "projectUniqueName": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\Week0101\\Week0101.csproj",
+        "projectName": "Week0101",
+        "projectPath": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\Week0101\\Week0101.csproj",
         "packagesPath": "C:\\Users\\ayonaty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\ECE2310_HW01_01\\obj\\",
+        "outputPath": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\Week0101\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
