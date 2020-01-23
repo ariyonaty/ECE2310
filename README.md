@@ -10,3 +10,4 @@ Instructor: Mei Klein
   
 ### Note to reader
   These are my codes. I bear no responsibility for plagiarism of any sort.
+  Additionally, refer to LICENSE.
