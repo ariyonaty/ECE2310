@@ -1,0 +1,4 @@
+Create zipped file of project.
+Separate doc containing output and source code. 
+
+IF HW contains 3 problems, 6 files will be attached.
