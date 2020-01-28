@@ -4,7 +4,7 @@ School: Cal Poly Pomona
 Professor: Mei Klein
 
 DISCLAIMER: These programs are written by me. Feel free to take the code and modify it, however I am not responsible for plagiarism of any sort.
-=======
+
 Work for ECE2310 - Object Oriented Programming at Cal Poly Pomona  
 Instructor: Mei Klein
 
@@ -18,8 +18,8 @@ Instructor: Mei Klein
   These are my codes. I bear no responsibility for plagiarism of any sort.
   Additionally, refer to LICENSE.
 
-=================
-MIT License
+
+### MIT License
 
 Copyright (c) 2020 Ari Yonaty
 
