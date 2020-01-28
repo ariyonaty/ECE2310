@@ -28,7 +28,7 @@ namespace ECE2310_HW01_02
         {
             double miles = Convert.ToDouble(textBox1.Text);
             double kilometers = miles * 1.60934;
-            textBox2.Text = Convert.ToString(kilometers);
+            textBox2.Text = Convert.ToString(Math.Round(kilometers, 2));
         }
 
         private void label1_Click(object sender, EventArgs e)
