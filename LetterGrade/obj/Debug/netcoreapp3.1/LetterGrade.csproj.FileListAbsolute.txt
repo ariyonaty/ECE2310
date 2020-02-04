@@ -1,0 +1,11 @@
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\bin\Debug\netcoreapp3.1\LetterGrade.exe
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\bin\Debug\netcoreapp3.1\LetterGrade.deps.json
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\bin\Debug\netcoreapp3.1\LetterGrade.runtimeconfig.json
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\bin\Debug\netcoreapp3.1\LetterGrade.runtimeconfig.dev.json
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\bin\Debug\netcoreapp3.1\LetterGrade.dll
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\bin\Debug\netcoreapp3.1\LetterGrade.pdb
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\obj\Debug\netcoreapp3.1\LetterGrade.csprojAssemblyReference.cache
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\obj\Debug\netcoreapp3.1\LetterGrade.AssemblyInfoInputs.cache
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\obj\Debug\netcoreapp3.1\LetterGrade.AssemblyInfo.cs
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\obj\Debug\netcoreapp3.1\LetterGrade.dll
+C:\Users\ayonaty\source\repos\ECE2310\LetterGrade\obj\Debug\netcoreapp3.1\LetterGrade.pdb
