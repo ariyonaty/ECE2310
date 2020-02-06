@@ -32,26 +32,56 @@ namespace LetterGrade
 
         private static void ComputeInput(double grade)
         {
+            char letterGrade;
             // Conditionals testing diff grade ranges
             if (grade >= 90)
             {
-                Console.WriteLine("Letter grade is 'A'!");
+                letterGrade = 'A';
+                Console.WriteLine($"Letter grade is {letterGrade}!");
             }
             else if (grade >= 80)
             {
-                Console.WriteLine("Letter grade is 'B'!");
+                letterGrade = 'B';
+                Console.WriteLine($"Letter grade is {letterGrade}!");
             }
             else if (grade >= 70)
             {
-                Console.WriteLine("Letter grade is 'C'!");
+                letterGrade = 'C';
+                Console.WriteLine($"Letter grade is {letterGrade}!");
             }
             else if (grade >= 60)
             {
-                Console.WriteLine("Letter grade is 'D'!");
+                letterGrade = 'D';
+                Console.WriteLine($"Letter grade is {letterGrade}!");
             }
             else
             {
-                Console.WriteLine("Letter grade is 'F'!");
+                letterGrade = 'F';
+                Console.WriteLine($"Letter grade is {letterGrade}!");
+            }
+
+            outputMessage(letterGrade);
+        }
+
+        public static void outputMessage(char letter)
+        {
+            switch (letter)
+            {
+                case 'A':
+                    Console.WriteLine("Awesome job!");
+                    break;
+                case 'B':
+                    Console.WriteLine("Well done.");
+                    break;
+                case 'C':
+                    Console.WriteLine("Satisfactory.");
+                    break;
+                case 'D':
+                    Console.WriteLine("Poor Performance.");
+                    break;
+                case 'F':
+                    Console.WriteLine("You failed!");
+                    break;
             }
         }
     }
