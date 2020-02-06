@@ -7,3 +7,12 @@ C:\Users\ayonaty\source\repos\BMICalc\obj\Debug\BMICalc.Properties.Resources.res
 C:\Users\ayonaty\source\repos\BMICalc\obj\Debug\BMICalc.csproj.GenerateResource.cache
 C:\Users\ayonaty\source\repos\BMICalc\obj\Debug\BMICalc.exe
 C:\Users\ayonaty\source\repos\BMICalc\obj\Debug\BMICalc.pdb
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\bin\Debug\BMICalc.exe.config
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\bin\Debug\BMICalc.exe
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\bin\Debug\BMICalc.pdb
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\obj\Debug\BMICalc.csprojAssemblyReference.cache
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\obj\Debug\BMICalc.Form1.resources
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\obj\Debug\BMICalc.Properties.Resources.resources
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\obj\Debug\BMICalc.csproj.GenerateResource.cache
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\obj\Debug\BMICalc.exe
+C:\Users\ayonaty\source\repos\ECE2310\BMICalc\obj\Debug\BMICalc.pdb

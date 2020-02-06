@@ -41,6 +41,11 @@
             this.label6 = new System.Windows.Forms.Label();
             this.btnClear = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
+            this.underweight = new System.Windows.Forms.Label();
+            this.normal = new System.Windows.Forms.Label();
+            this.overweight = new System.Windows.Forms.Label();
+            this.obese = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -146,7 +151,7 @@
             // btnClear
             // 
             this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClear.Location = new System.Drawing.Point(27, 377);
+            this.btnClear.Location = new System.Drawing.Point(24, 438);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(114, 34);
             this.btnClear.TabIndex = 12;
@@ -157,7 +162,7 @@
             // btnExit
             // 
             this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.Location = new System.Drawing.Point(187, 377);
+            this.btnExit.Location = new System.Drawing.Point(187, 438);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(114, 34);
             this.btnExit.TabIndex = 13;
@@ -165,11 +170,62 @@
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(20, 343);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(104, 20);
+            this.label7.TabIndex = 14;
+            this.label7.Text = "BMI Range:";
+            // 
+            // underweight
+            // 
+            this.underweight.AutoSize = true;
+            this.underweight.Location = new System.Drawing.Point(152, 348);
+            this.underweight.Name = "underweight";
+            this.underweight.Size = new System.Drawing.Size(125, 13);
+            this.underweight.TabIndex = 15;
+            this.underweight.Text = "Underweight: BMI < 18.5";
+            // 
+            // normal
+            // 
+            this.normal.AutoSize = true;
+            this.normal.Location = new System.Drawing.Point(152, 367);
+            this.normal.Name = "normal";
+            this.normal.Size = new System.Drawing.Size(131, 13);
+            this.normal.TabIndex = 16;
+            this.normal.Text = "Normal: 18.5 < BMI < 24.9";
+            // 
+            // overweight
+            // 
+            this.overweight.AutoSize = true;
+            this.overweight.Location = new System.Drawing.Point(152, 385);
+            this.overweight.Name = "overweight";
+            this.overweight.Size = new System.Drawing.Size(143, 13);
+            this.overweight.TabIndex = 17;
+            this.overweight.Text = "Overweight: 25 < BMI < 29.9";
+            // 
+            // obese
+            // 
+            this.obese.AutoSize = true;
+            this.obese.Location = new System.Drawing.Point(152, 403);
+            this.obese.Name = "obese";
+            this.obese.Size = new System.Drawing.Size(87, 13);
+            this.obese.TabIndex = 18;
+            this.obese.Text = "Obese: BMI > 30";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(326, 423);
+            this.ClientSize = new System.Drawing.Size(326, 484);
+            this.Controls.Add(this.obese);
+            this.Controls.Add(this.overweight);
+            this.Controls.Add(this.normal);
+            this.Controls.Add(this.underweight);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.label6);
@@ -205,6 +261,11 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label underweight;
+        private System.Windows.Forms.Label normal;
+        private System.Windows.Forms.Label overweight;
+        private System.Windows.Forms.Label obese;
     }
 }
 
