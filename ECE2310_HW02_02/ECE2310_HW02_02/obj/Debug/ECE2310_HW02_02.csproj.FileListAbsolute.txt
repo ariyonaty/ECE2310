@@ -1,0 +1,9 @@
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\bin\Debug\ECE2310_HW02_02.exe.config
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\bin\Debug\ECE2310_HW02_02.exe
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\bin\Debug\ECE2310_HW02_02.pdb
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\obj\Debug\ECE2310_HW02_02.csprojAssemblyReference.cache
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\obj\Debug\ECE2310_HW02_02.Form1.resources
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\obj\Debug\ECE2310_HW02_02.Properties.Resources.resources
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\obj\Debug\ECE2310_HW02_02.csproj.GenerateResource.cache
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\obj\Debug\ECE2310_HW02_02.exe
+C:\Users\Georgianne\source\repos\ECE2310_HW02_02\ECE2310_HW02_02\obj\Debug\ECE2310_HW02_02.pdb
