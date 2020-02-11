@@ -8,3 +8,4 @@ C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1
 C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1\Week0401.pdb
 C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\obj\Debug\netcoreapp3.1\Week0401.dll
 C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\obj\Debug\netcoreapp3.1\Week0401.pdb
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\obj\Debug\netcoreapp3.1\Week0401.csprojAssemblyReference.cache

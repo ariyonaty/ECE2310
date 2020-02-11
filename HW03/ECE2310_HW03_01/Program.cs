@@ -47,8 +47,10 @@ namespace ECE2310_HW03_01
 
         private static void areaCircle()
         {
+            double radius = 0;
+
             Console.Write("Enter circle radius > ");
-            double radius = Convert.ToDouble(Console.ReadLine());
+            getValue(ref radius);
 
             double area = Math.Round(Math.PI * radius * radius, 3);
 
@@ -57,10 +59,13 @@ namespace ECE2310_HW03_01
 
         private static void areaRectangle()
         {
+            double length = 0;
+            double width = 0;
+
             Console.Write("Enter length > ");
-            double length = Convert.ToDouble(Console.ReadLine());
+            getValue(ref length);
             Console.Write("Enter width > ");
-            double width = Convert.ToDouble(Console.ReadLine());
+            getValue(ref width);
 
             double area = Math.Round(length * width, 3);
 
@@ -69,14 +74,25 @@ namespace ECE2310_HW03_01
 
         private static void areaCylinder()
         {
+            double radius = 0;
+            double height = 0;
+
             Console.Write("Enter radius > ");
-            double radius = Convert.ToDouble(Console.ReadLine());
+            getValue(ref radius);
             Console.Write("Enter height > ");
-            double height = Convert.ToDouble(Console.ReadLine());
+            getValue(ref height);
 
             double area = Math.Round((2 * Math.PI * radius * height) + (2 * Math.PI * radius * radius), 3);
 
             Console.WriteLine($"Area of cylinder is {area} units squared.");
+        }
+
+        private static void getValue(ref double value)
+        {
+            while(!Double.TryParse(Console.ReadLine(), out value) || value <= 0)
+            {
+                Console.Write("Invalid input! Try again > ");
+            }
         }
     }
 }
