@@ -1,9 +1,0 @@
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\bin\Debug\ECE2310_HW01_02.exe.config
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\bin\Debug\ECE2310_HW01_02.exe
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\bin\Debug\ECE2310_HW01_02.pdb
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\obj\Debug\ECE2310_HW01_02.csprojAssemblyReference.cache
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\obj\Debug\ECE2310_HW01_02.Form1.resources
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\obj\Debug\ECE2310_HW01_02.Properties.Resources.resources
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\obj\Debug\ECE2310_HW01_02.csproj.GenerateResource.cache
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\obj\Debug\ECE2310_HW01_02.exe
-C:\Users\ayonaty\source\repos\ECE2310\ECE2310_HW01_02\obj\Debug\ECE2310_HW01_02.pdb
