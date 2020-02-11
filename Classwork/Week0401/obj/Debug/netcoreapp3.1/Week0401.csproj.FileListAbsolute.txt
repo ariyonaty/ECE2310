@@ -1,0 +1,10 @@
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\obj\Debug\netcoreapp3.1\Week0401.AssemblyInfoInputs.cache
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\obj\Debug\netcoreapp3.1\Week0401.AssemblyInfo.cs
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1\Week0401.exe
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1\Week0401.deps.json
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1\Week0401.runtimeconfig.json
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1\Week0401.runtimeconfig.dev.json
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1\Week0401.dll
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\bin\Debug\netcoreapp3.1\Week0401.pdb
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\obj\Debug\netcoreapp3.1\Week0401.dll
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0401\obj\Debug\netcoreapp3.1\Week0401.pdb
