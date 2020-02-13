@@ -34,36 +34,20 @@ namespace ECE2310_HW03_03
 
             if (input >= 0 && input <= 1000)
             {
-                txtSales.Text = Convert.ToString("$" + Math.Round(input, 2));
-                txtProfitRatio.Text = "3.0%";
-                txtProfit.Text = Convert.ToString("$" + Math.Round(0.03 * input, 2));
+                calculate(input, 0.03);
             }
             else if (input > 1000 && input <= 5000)
             {
-                txtSales.Text = Convert.ToString("$" + Math.Round(input, 2));
-                txtProfitRatio.Text = "3.5%";
-                txtProfit.Text = Convert.ToString("$" + Math.Round(0.035 * input, 2));
+                calculate(input, 0.035);
             }
             else if (input > 5000 && input <= 10000)
             {
-                txtSales.Text = Convert.ToString("$" + Math.Round(input, 2));
-                txtProfitRatio.Text = "4%";
-                txtProfit.Text = Convert.ToString("$" + Math.Round(0.04 * input, 2));
+                calculate(input, 0.04);
             }
             else
             {
-                txtSales.Text = Convert.ToString("$" + Math.Round(input, 2));
-                txtProfitRatio.Text = "4.5%";
-                txtProfit.Text = Convert.ToString("$" + Math.Round(0.045 * input, 2));
+                calculate(input, 0.045);
             }
-        }
-
-        private void clearForm()
-        {
-            txtInput.Clear();
-            txtProfit.Clear();
-            txtSales.Clear();
-            txtProfitRatio.Clear();
         }
 
         private void btnClear_Click(object sender, EventArgs e)
@@ -74,6 +58,21 @@ namespace ECE2310_HW03_03
         private void btnExit_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void clearForm()
+        {
+            txtInput.Clear();
+            txtProfit.Clear();
+            txtSales.Clear();
+            txtProfitRatio.Clear();
+        }
+
+        private void calculate(double input, double percent)
+        {
+            txtSales.Text = Convert.ToString("$" + Math.Round(input, 2));
+            txtProfitRatio.Text = Convert.ToString(percent * 100 + "%");
+            txtProfit.Text = Convert.ToString("$" + Math.Round(percent * input, 2));
         }
     }
 }
