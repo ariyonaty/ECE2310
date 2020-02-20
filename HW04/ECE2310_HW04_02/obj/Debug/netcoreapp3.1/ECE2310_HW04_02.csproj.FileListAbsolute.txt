@@ -1,0 +1,3 @@
+C:\Users\ayonaty\source\repos\ECE2310\HW04\ECE2310_HW04_02\obj\Debug\netcoreapp3.1\ECE2310_HW04_02.csprojAssemblyReference.cache
+C:\Users\ayonaty\source\repos\ECE2310\HW04\ECE2310_HW04_02\obj\Debug\netcoreapp3.1\ECE2310_HW04_02.AssemblyInfoInputs.cache
+C:\Users\ayonaty\source\repos\ECE2310\HW04\ECE2310_HW04_02\obj\Debug\netcoreapp3.1\ECE2310_HW04_02.AssemblyInfo.cs
