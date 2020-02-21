@@ -1,0 +1,10 @@
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\bin\Debug\netcoreapp2.1\ECE2310_HW04_02.deps.json
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\bin\Debug\netcoreapp2.1\ECE2310_HW04_02.runtimeconfig.json
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\bin\Debug\netcoreapp2.1\ECE2310_HW04_02.runtimeconfig.dev.json
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\bin\Debug\netcoreapp2.1\ECE2310_HW04_02.dll
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\bin\Debug\netcoreapp2.1\ECE2310_HW04_02.pdb
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\obj\Debug\netcoreapp2.1\ECE2310_HW04_02.csproj.CoreCompileInputs.cache
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\obj\Debug\netcoreapp2.1\ECE2310_HW04_02.AssemblyInfoInputs.cache
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\obj\Debug\netcoreapp2.1\ECE2310_HW04_02.AssemblyInfo.cs
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\obj\Debug\netcoreapp2.1\ECE2310_HW04_02.dll
+C:\Users\ayonaty\Desktop\ECE2310_HW04_02\ECE2310_HW04_02\obj\Debug\netcoreapp2.1\ECE2310_HW04_02.pdb
