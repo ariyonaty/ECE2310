@@ -1,0 +1,11 @@
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\bin\Debug\netcoreapp3.1\ECE2310_HW05_02.exe
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\bin\Debug\netcoreapp3.1\ECE2310_HW05_02.deps.json
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\bin\Debug\netcoreapp3.1\ECE2310_HW05_02.runtimeconfig.json
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\bin\Debug\netcoreapp3.1\ECE2310_HW05_02.runtimeconfig.dev.json
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\bin\Debug\netcoreapp3.1\ECE2310_HW05_02.dll
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\bin\Debug\netcoreapp3.1\ECE2310_HW05_02.pdb
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\obj\Debug\netcoreapp3.1\ECE2310_HW05_02.csprojAssemblyReference.cache
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\obj\Debug\netcoreapp3.1\ECE2310_HW05_02.AssemblyInfoInputs.cache
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\obj\Debug\netcoreapp3.1\ECE2310_HW05_02.AssemblyInfo.cs
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\obj\Debug\netcoreapp3.1\ECE2310_HW05_02.dll
+C:\Users\ayonaty\source\repos\ECE2310\HW05\ECE2310_HW05_02\obj\Debug\netcoreapp3.1\ECE2310_HW05_02.pdb
