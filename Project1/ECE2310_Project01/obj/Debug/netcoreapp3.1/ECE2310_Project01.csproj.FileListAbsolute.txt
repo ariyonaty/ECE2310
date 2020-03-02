@@ -1,0 +1,11 @@
+C:\Users\Georgianne\source\repos\ECE2310_Project01\bin\Debug\netcoreapp3.1\ECE2310_Project01.exe
+C:\Users\Georgianne\source\repos\ECE2310_Project01\bin\Debug\netcoreapp3.1\ECE2310_Project01.deps.json
+C:\Users\Georgianne\source\repos\ECE2310_Project01\bin\Debug\netcoreapp3.1\ECE2310_Project01.runtimeconfig.json
+C:\Users\Georgianne\source\repos\ECE2310_Project01\bin\Debug\netcoreapp3.1\ECE2310_Project01.runtimeconfig.dev.json
+C:\Users\Georgianne\source\repos\ECE2310_Project01\bin\Debug\netcoreapp3.1\ECE2310_Project01.dll
+C:\Users\Georgianne\source\repos\ECE2310_Project01\bin\Debug\netcoreapp3.1\ECE2310_Project01.pdb
+C:\Users\Georgianne\source\repos\ECE2310_Project01\obj\Debug\netcoreapp3.1\ECE2310_Project01.csprojAssemblyReference.cache
+C:\Users\Georgianne\source\repos\ECE2310_Project01\obj\Debug\netcoreapp3.1\ECE2310_Project01.AssemblyInfoInputs.cache
+C:\Users\Georgianne\source\repos\ECE2310_Project01\obj\Debug\netcoreapp3.1\ECE2310_Project01.AssemblyInfo.cs
+C:\Users\Georgianne\source\repos\ECE2310_Project01\obj\Debug\netcoreapp3.1\ECE2310_Project01.dll
+C:\Users\Georgianne\source\repos\ECE2310_Project01\obj\Debug\netcoreapp3.1\ECE2310_Project01.pdb
