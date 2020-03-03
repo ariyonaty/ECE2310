@@ -1,0 +1,9 @@
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\bin\Debug\Week0701.exe.config
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\bin\Debug\Week0701.exe
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\bin\Debug\Week0701.pdb
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\obj\Debug\Week0701.csprojAssemblyReference.cache
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\obj\Debug\Week0701.Form1.resources
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\obj\Debug\Week0701.Properties.Resources.resources
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\obj\Debug\Week0701.csproj.GenerateResource.cache
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\obj\Debug\Week0701.exe
+C:\Users\ayonaty\source\repos\ECE2310\Classwork\Week0701\obj\Debug\Week0701.pdb
