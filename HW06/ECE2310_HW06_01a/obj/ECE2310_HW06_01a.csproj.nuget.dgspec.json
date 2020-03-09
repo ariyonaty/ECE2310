@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01/ECE2310_HW06_01.csproj": {}
+    "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj": {}
   },
   "projects": {
-    "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01/ECE2310_HW06_01.csproj": {
+    "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01/ECE2310_HW06_01.csproj",
-        "projectName": "ECE2310_HW06_01",
-        "projectPath": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01/ECE2310_HW06_01.csproj",
+        "projectUniqueName": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj",
+        "projectName": "ECE2310_HW06_01a",
+        "projectPath": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj",
         "packagesPath": "/Users/ariyonaty/.nuget/packages/",
-        "outputPath": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01/obj/",
+        "outputPath": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

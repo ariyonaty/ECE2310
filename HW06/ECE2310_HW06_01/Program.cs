@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace ECE2310_HW06_01
 {
@@ -6,33 +7,48 @@ namespace ECE2310_HW06_01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-------------------------------------");
-            Console.WriteLine("Determining Perfect Numbers");
-            Console.WriteLine("-------------------------------------");
+            // Initialize stopwatch for execution timing.
+            Stopwatch stopWatch = new Stopwatch();
+            stopWatch.Start();
 
-            int endRange = 2000;
-            Console.WriteLine($"Perfect numbers between 1 and {endRange}:");
-            for (int i = 1; i < endRange; i++)
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("Determining Perfect Numbers (using sqrt) ");
+            Console.WriteLine("-----------------------------------------");
+
+            // values for part a and part b 
+            int aLimit = 2000;
+            int bStart = 5;
+            int bLimit = 5000;
+
+            // Part B: Display perfect numbers and divisors from {1, 2000}
+            Console.WriteLine($"Perfect numbers between 1 and {aLimit}:");
+            for (int i = 1; i < aLimit; i++)
             {
                 if (isPerfect(i) == true)
                 {
-                    Console.Write($"Perfect num: {i, -4} = ");
+                    Console.Write($"Perfect num: {i,-4} = ");
                     printDivisors(i);
                     Console.WriteLine();
                 }
             }
-            Console.WriteLine("-------------------------------------");
-            int startRange = 5;
-            endRange = 5000;
-            Console.WriteLine($"Perfect numbers between {startRange} and {endRange}:");
-            for (int i = startRange; i < endRange; i++)
+
+            // Part C: Display perfect numbers and divisors from {5, 5000}
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine($"Perfect numbers between {bStart} and {bLimit}:");
+            int count = 0;
+            for (int i = bStart; i < bLimit; i++)
             {
                 if (isPerfect(i) == true)
                 {
-                    Console.WriteLine($"Perfect num: {i,-4}");
+                    count++;
+                    Console.Write($"{i,-4}");
                 }
             }
+            Console.WriteLine($"\nCount: {count}");
+            Console.WriteLine("-----------------------------------------");
 
+            stopWatch.Stop();
+            Console.WriteLine($"Execution Time: {stopWatch.ElapsedMilliseconds} ms");
         }
 
         private static bool isPerfect(int number)
@@ -76,39 +92,11 @@ namespace ECE2310_HW06_01
 
             var limit = Math.Floor(Math.Sqrt(number));
 
-            for (int i = 3; i <= limit; i+=2)
+            for (int i = 3; i <= limit; i += 2)
             {
                 if (number % i == 0) return false;
             }
             return true;
-        }
-
-        public static bool IsPrime(int candidate)
-        {
-        // Test whether the parameter is a prime number.
-            if ((candidate & 1) == 0)
-            {
-                if (candidate == 2)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
-            // Note:
-            // ... This version was changed to test the square.
-            // ... Original version tested against the square root.
-            // ... Also we exclude 1 at the end.
-            for (int i = 3; (i * i) <= candidate; i += 2)
-            {
-                if ((candidate % i) == 0)
-                {
-                    return false;
-                }
-            }
-            return candidate != 1;
         }
     }
 }
