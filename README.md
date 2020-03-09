@@ -12,7 +12,7 @@ Instructor: Mei Klein
   - Visual Studio 2019
   - C# dependencies
   - Windows machine (unfortunately)
-
+    - Console applications can be done on different OS (using dotnet), however Windows Forms cannot.
   
 ### Note to reader
   These are my codes. I bear no responsibility for plagiarism of any sort.
