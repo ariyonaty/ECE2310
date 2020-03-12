@@ -111,7 +111,9 @@ namespace ECE2310_HW06_01a
                 THEN, it will go through and remove all multiples of numbers that are not prime. 
                 Example: So it will go to 2, which is prime. THEN, it will set all
                         multiples of 2 (such as 4, 6, 8...) false aka not prime.
-                        Then it will go to 3, which is prime. THEN, it will set all multiples of 3 (such as 15, 21...) false aka not prime. Note that when doing 3 it will not consider multiples of BOTH 2 and 3, such as 6, as 2 already set it false.
+                        Then it will go to 3, which is prime. 
+                        THEN, it will set all multiples of 3 (such as 15, 21...) false aka not prime. 
+                        Note that when doing 3 it will not consider multiples of BOTH 2 and 3, such as 6, as 2 already set it false.
               */
 
             BitArray bits = new BitArray(limit + 1, true);
