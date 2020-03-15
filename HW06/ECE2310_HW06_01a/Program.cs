@@ -43,7 +43,7 @@ namespace ECE2310_HW06_01a
 
             // Part B: Display perfect numbers and divisors from {1, 2000}
             Console.WriteLine($"Perfect numbers between 1 and {aLimit}:");
-            for (int i = 1; i < aLimit; i++)
+            for (int i = 2; i < aLimit; i+=2)
             {
                 if (isPerfect(i) == true)
                 {
@@ -57,7 +57,8 @@ namespace ECE2310_HW06_01a
             Console.WriteLine("-----------------------------------------");
             Console.WriteLine($"Perfect numbers between {bStart} and {bLimit}:");
             int count = 0;
-            for (int i = bStart; i < 5000; i++)
+            bStart = (bStart % 2 == 0) ? bStart : bStart + 1;
+            for (int i = bStart; i < 5000; i+=2)
             {
                 if (isPerfect(i) == true)
                 {

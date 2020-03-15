@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\HW06\\ECE2310_HW06_01a\\ECE2310_HW06_01a.csproj": {}
+    "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\HW06\\ECE2310_HW06_01a\\ECE2310_HW06_01a.csproj": {
+    "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\HW06\\ECE2310_HW06_01a\\ECE2310_HW06_01a.csproj",
+        "projectUniqueName": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj",
         "projectName": "ECE2310_HW06_01a",
-        "projectPath": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\HW06\\ECE2310_HW06_01a\\ECE2310_HW06_01a.csproj",
-        "packagesPath": "C:\\Users\\ayonaty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayonaty\\source\\repos\\ECE2310\\HW06\\ECE2310_HW06_01a\\obj\\",
+        "projectPath": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/ECE2310_HW06_01a.csproj",
+        "packagesPath": "/Users/ariyonaty/.nuget/packages/",
+        "outputPath": "/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW06/ECE2310_HW06_01a/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ayonaty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ariyonaty/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }
