@@ -1,0 +1,10 @@
+C:\Users\delta\source\repos\ECE2310_Midterm2\bin\Debug\ECE2310_Midterm2.exe.config
+C:\Users\delta\source\repos\ECE2310_Midterm2\bin\Debug\ECE2310_Midterm2.exe
+C:\Users\delta\source\repos\ECE2310_Midterm2\bin\Debug\ECE2310_Midterm2.pdb
+C:\Users\delta\source\repos\ECE2310_Midterm2\obj\Debug\ECE2310_Midterm2.csprojAssemblyReference.cache
+C:\Users\delta\source\repos\ECE2310_Midterm2\obj\Debug\ECE2310_Midterm2.Form1.resources
+C:\Users\delta\source\repos\ECE2310_Midterm2\obj\Debug\ECE2310_Midterm2.Properties.Resources.resources
+C:\Users\delta\source\repos\ECE2310_Midterm2\obj\Debug\ECE2310_Midterm2.csproj.GenerateResource.cache
+C:\Users\delta\source\repos\ECE2310_Midterm2\obj\Debug\ECE2310_Midterm2.csproj.CoreCompileInputs.cache
+C:\Users\delta\source\repos\ECE2310_Midterm2\obj\Debug\ECE2310_Midterm2.exe
+C:\Users\delta\source\repos\ECE2310_Midterm2\obj\Debug\ECE2310_Midterm2.pdb
