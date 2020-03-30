@@ -17,6 +17,5 @@ namespace ECE2310_HW08_01
             matt.employeeInfo();
             michael.employeeInfo();
         }
-
     }
 }
