@@ -1,0 +1,11 @@
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/bin/Debug/netcoreapp3.1/ECE2310_HW08_02
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/bin/Debug/netcoreapp3.1/ECE2310_HW08_02.deps.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/bin/Debug/netcoreapp3.1/ECE2310_HW08_02.runtimeconfig.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/bin/Debug/netcoreapp3.1/ECE2310_HW08_02.runtimeconfig.dev.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/bin/Debug/netcoreapp3.1/ECE2310_HW08_02.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/bin/Debug/netcoreapp3.1/ECE2310_HW08_02.pdb
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/obj/Debug/netcoreapp3.1/ECE2310_HW08_02.csprojAssemblyReference.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/obj/Debug/netcoreapp3.1/ECE2310_HW08_02.AssemblyInfoInputs.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/obj/Debug/netcoreapp3.1/ECE2310_HW08_02.AssemblyInfo.cs
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/obj/Debug/netcoreapp3.1/ECE2310_HW08_02.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/HW08/ECE2310_HW08_02/obj/Debug/netcoreapp3.1/ECE2310_HW08_02.pdb
