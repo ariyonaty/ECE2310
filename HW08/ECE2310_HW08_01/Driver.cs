@@ -14,8 +14,10 @@ namespace ECE2310_HW08_01
             matt.EmployeeNumber = 1337;
             matt.MonthlySalary = 4500.00;
 
-            matt.employeeInfo();
-            michael.employeeInfo();
+            matt.EmployeeInfo();
+            michael.EmployeeInfo();
+
+
         }
     }
 }

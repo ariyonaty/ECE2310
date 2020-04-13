@@ -61,11 +61,11 @@ namespace ECE2310_HW08_01
             this.LastName = last;
             this.MonthlySalary = monthly;
         }
-        public double annualPay()
+        public double AnnualPay()
         {
             return _monthly * 12;
         }
-        public void employeeInfo()
+        public void EmployeeInfo()
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("[+] Employee Information:");
@@ -74,7 +74,7 @@ namespace ECE2310_HW08_01
             Console.WriteLine($"--> Last Name:\t\t{_last}");
             Console.WriteLine($"--> ID: \t\t#{_employeeNum:D5}");
             Console.WriteLine($"--> Monthly Salary: \t{_monthly:C2}");
-            Console.WriteLine($"--> Annual Salary: \t{annualPay():C2}");
+            Console.WriteLine($"--> Annual Salary: \t{AnnualPay():C2}");
             Console.WriteLine("------------------------------------");
         }
     }

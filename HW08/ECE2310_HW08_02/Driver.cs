@@ -36,7 +36,7 @@ namespace ECE2310_HW08_02
                     Console.Write("Try again > ");
                 }
                 Employee emp = new Employee(nameSep[0], nameSep[nameSep.Length - 1], employeeID, sales);
-                emp.calculateDeductions();
+                emp.CalculateDeductions();
                 Console.Write("Again? (y/n) ");
                 char againInput = Convert.ToChar(Console.ReadLine());
                 if (againInput == 'y')

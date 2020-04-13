@@ -1,0 +1,21 @@
+@startuml
+
+class Employee {
+  +first : string   
+  +last : string   
+  +employeeNum : int   
+  +monthly : double
+  
+  +FirstName : string
+  +LastName : string
+  +EmployeeNumber : int
+  +MontlySalary : double
+  
+  +Employee() 
+  +Employee(string, string, int, double)
+  
+  +AnnualPay() : double
+  +EmployeeInfo() : void
+}
+
+@enduml

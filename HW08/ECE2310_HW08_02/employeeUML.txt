@@ -1,0 +1,22 @@
+@startuml
+
+class Dwelling {
+  +first : string   
+  +last : string   
+  +employeeNum : int   
+  +monthly : double
+  
+  +FirstName : string
+  +LastName : string
+  +EmployeeNumber : int
+  +TotalSales : double
+  
+  +Employee() 
+  +Employee(string, string, int, double)
+  
+  +Deductions() : void
+  +DisplayDeductions(double, double, double) : void
+  +EmployeeInfo(double, double, double, double, double) : void
+}
+
+@enduml

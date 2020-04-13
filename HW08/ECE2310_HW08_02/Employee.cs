@@ -62,7 +62,7 @@ namespace ECE2310_HW08_02
             this.TotalSales = sales;
         }
 
-        public void Deductions()
+        public void CalculateDeductions()
         {
             double deducCut = Math.Round(_sales * 0.09, 2);
             double deducFed = Math.Round(deducCut * 0.18, 2);
@@ -70,10 +70,10 @@ namespace ECE2310_HW08_02
             double deducSoc = Math.Round(deducCut * 0.06, 2);
 
             double net = deducCut - deducFed - deducRet - deducSoc;
-            employeeInfo(net, deducCut, deducFed, deducRet, deducSoc);
+            EmployeeInfo(net, deducCut, deducFed, deducRet, deducSoc);
         }
 
-        public void displayDeductions(double deducFed, double deducRet, double deducSoc)
+        public void DisplayDeductions(double deducFed, double deducRet, double deducSoc)
         {
 
             Console.ForegroundColor = ConsoleColor.Red;
@@ -84,7 +84,7 @@ namespace ECE2310_HW08_02
             Console.ResetColor();
         }
 
-        public void employeeInfo(double net, double deducCut, double deducFed, double deducRet, double deducSoc)
+        public void EmployeeInfo(double net, double deducCut, double deducFed, double deducRet, double deducSoc)
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("[+] Employee Information:");
@@ -93,7 +93,7 @@ namespace ECE2310_HW08_02
             Console.WriteLine($"--> ID: \t\t#{_employeeNum:D5}");
             Console.WriteLine($"--> Total Sales: \t{_sales:C2}");
             Console.WriteLine($"--> Employee Cut (9%):\t{deducCut:C2}");
-            displayDeductions(deducFed, deducRet, deducSoc);
+            DisplayDeductions(deducFed, deducRet, deducSoc);
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"--> Net Salary: \t{net:C2}");
             Console.ResetColor();
