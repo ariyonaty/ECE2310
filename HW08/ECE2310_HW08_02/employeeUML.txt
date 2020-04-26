@@ -1,6 +1,6 @@
 @startuml
 
-class Dwelling {
+class Employee {
   +first : string   
   +last : string   
   +employeeNum : int   
