@@ -1,0 +1,50 @@
+@startuml
+
+
+title ECE2310 - HW10.01
+
+class Student {
+  -id : int
+  -username : string
+  -email : string
+  -gpa : double
+  
+  +ID : int
+  +Username : string
+  +Email : string
+  +GPA : double
+  
+  +Student()
+  +Student(int, string, string, double)
+  
+  *ToString() : string
+}
+
+class Undergrad {
+  -year : int
+  
+  +Year : int
+  
+  +Undergrad()
+  
+  *Standing(int) : string
+  *ToString() : string
+}
+
+class Grad { 
+  -researchTopic : string
+  -degreeType : string
+  
+  +ResearchTopic : string
+  +DegreeType : string
+  
+  +Grad()
+  
+  *ToString() : string
+}
+
+Student <|-down- Undergrad
+Student <|-down- Grad
+
+
+@enduml

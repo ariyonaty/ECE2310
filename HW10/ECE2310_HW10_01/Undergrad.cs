@@ -16,7 +16,7 @@ namespace ECE2310_HW10_01
 
         public Undergrad() { }
 
-        string standing(int year)
+        public string Standing(int year)
         {
             string standing;
             switch (year)
@@ -45,7 +45,7 @@ namespace ECE2310_HW10_01
 
         public override string ToString()
         {
-            return ($"[+] Student Information:\n    ID: {ID.ToString("D5")}\n    Username: {Username}\n    Email: {Email}\n    GPA: {GPA:0.00}\n    Type: Undergrad\n    Academic Standing: {standing(Year)}");
+            return ($"[+] Student Information:\n    ID: {ID.ToString("D5")}\n    Username: {Username}\n    Email: {Email}\n    GPA: {GPA:0.00}\n    Type: Undergrad\n    Academic Standing: {Standing(Year)}");
         }
     }
 }
