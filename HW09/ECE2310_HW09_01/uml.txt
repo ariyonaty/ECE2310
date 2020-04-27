@@ -1,0 +1,67 @@
+@startuml
+
+title ECE2310 - HW 09
+
+class Grocery {
+  -eggs : Eggs
+  -milk : Milk
+  -bread : Bread
+  
+  +MyEggs : Eggs
+  +MyMilk : Milk
+  +MyBread : Bread
+  
+  +Grocery()
+  +Grocery(Eggs, Milk, Bread)
+  
+  *Expense() : double
+  *ToString() : string
+}
+
+class Milk {
+  -unitPrice : double
+  -quantity : uint
+  
+  +UnitPrice : double 
+  +Quantity : uint
+  
+  +Milk()
+  +Milk(double, uint)
+  
+  *TotalPrice() : double
+  *ToString() : string
+}
+
+class Bread {
+  -unitPrice : double
+  -quantity : uint
+  
+  +UnitPrice : double 
+  +Quantity : uint
+  
+  +Bread()
+  +Bread(double, uint)
+  
+  *TotalPrice() : double
+  *ToString() : string
+}
+
+class Eggs {
+  -unitPrice : double
+  -quantity : uint
+  
+  +UnitPrice : double 
+  +Quantity : uint
+  
+  +Eggs()
+  +Eggs(double, uint)
+  
+  *TotalPrice() : double
+  *ToString() : string
+}
+
+Grocery *-down- Milk
+Grocery *-down- Eggs 
+Grocery *-down- Bread
+
+@enduml
