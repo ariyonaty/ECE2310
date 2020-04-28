@@ -15,6 +15,7 @@ namespace ECE2310_HW10_02
             Console.WriteLine(defaultCA);
             Console.WriteLine(defaultSA);
 
+            // Showing the 
             CheckingAccount ca = new CheckingAccount();
             ca.FirstName = "Anthony";
             ca.LastName = "Jeselnik";
