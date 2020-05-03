@@ -11,9 +11,18 @@ namespace ECE2310_HW09_01
             get => _unitPrice;
             set
             {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"[+] Setting unit price for Bread.");
+                Console.ResetColor();
                 if (value > 0)
                 {
                     _unitPrice = Math.Round(value, 2);
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine($"[-] Unit price value was not valid.");
+                    Console.ResetColor();
                 }
             }
         }
@@ -22,9 +31,18 @@ namespace ECE2310_HW09_01
             get => _quantity;
             set
             {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"[+] Setting quantity for Bread.");
+                Console.ResetColor();
                 if (value > 0)
                 {
                     _quantity = value;
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine($"[-] Quantity value was not valid.");
+                    Console.ResetColor();
                 }
             }
         }

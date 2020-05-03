@@ -7,7 +7,7 @@ namespace ECE2310_HW09_01
         static void Main(string[] args)
         {
             /* Demoing the defaults */
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine(">>> Testing Defaults");
             Console.ResetColor();
             Grocery myGroceries = new Grocery();
@@ -15,17 +15,18 @@ namespace ECE2310_HW09_01
             Console.WriteLine();
 
             /* Demoing modifying item within Grocery Class */
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine(">>> Modifying defaults from Grocery");
             Console.ResetColor();
             Grocery myGroceries2 = new Grocery();
             myGroceries2.MyEggs.UnitPrice = 2.99;
             myGroceries2.MyEggs.Quantity = 5;
+            myGroceries2.MyMilk.UnitPrice = -2.99;
             Console.WriteLine(myGroceries2);
             Console.WriteLine();
 
             /* Demoing creating individual obj of produce classes and passing as param to Grocery */
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine(">>> Creating indiv item obj and passing to Grocery");
             Console.ResetColor();
             Eggs kirklandEggs = new Eggs();
