@@ -11,23 +11,31 @@ namespace FinalProject
 
         public Pool()
         {
+            Console.Write($"Pool count before creation: {Count} ;\n");
             this.Temperature = new Temperature();
             this.Location = new Location();
             Count++;
+            Console.Write($"     count after creation: {Count}\n");
+
         }
         public Pool(Location location, char id)
         {
+            Console.Write($"Pool count before creation: {Count} ;\n");
             this.Temperature = new Temperature();
             this.Location = location;
             this.Identifier = id;
             Count++;
+            Console.Write($"     count after creation: {Count}\n");
+
         }
         public Pool(Temperature temperature, Location location, char id)
         {
+            Console.Write($"Pool count before creation: {Count} ;\n");
             this.Temperature = temperature;
             this.Location = location;
             this.Identifier = id;
             Count++;
+            Console.Write($"     count after creation: {Count}\n");
         }
 
         public static double GetDistance(Location l1, Location l2)
@@ -40,7 +48,7 @@ namespace FinalProject
 
         public override string ToString()
         {
-            return ($"Pool {Identifier}: \t{Temperature}\t{Location}");
+            return ($"Pool {Identifier}:   {Temperature}\t{Location}");
         }
     }
 }

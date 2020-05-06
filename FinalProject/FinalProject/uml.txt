@@ -1,0 +1,54 @@
+@startuml
+
+title ECE2310 - Final Project
+
+class Pool {
+  -Temperature : Temperature
+  -Location : Location
+  -Identifier : int
+  -{static} Count : int
+  
+  +MyEggs : Eggs
+  +MyMilk : Milk
+  +MyBread : Bread
+  
+  +Pool()
+  +Pool(Location, char)
+  +Pool(Temperature, Location, char)
+  
+  *{static} GetDistance(Location, Location) : double
+  *ToString() : string
+}
+
+class Location {
+  -posX : int
+  -posY : int
+  
+  +PosX : int 
+  +PosY : int
+  
+  +Location()
+  +Location(int, int)
+  
+  *Position() : int, int
+  *ToString() : string
+}
+
+class Temperature {
+  -degree : double
+  -scale : char
+  
+  +Degree : double 
+  +Scale : char
+  
+  +Temperature()
+  +Temperature(double, char)
+  
+  *TemperatureConversion(char) : void
+  *ToString() : string
+}
+
+Pool *-down- Location
+Pool *-down- Temperature 
+
+@enduml

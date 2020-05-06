@@ -62,7 +62,7 @@ namespace FinalProject
 
         public override string ToString()
         {
-            return ($"Temperature: {Degree} °{Scale}");
+            return ($"Temperature: {Degree}°{Scale}");
         }
 
     }
