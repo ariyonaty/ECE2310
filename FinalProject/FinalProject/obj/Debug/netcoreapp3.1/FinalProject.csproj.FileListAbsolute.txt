@@ -1,0 +1,11 @@
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/bin/Debug/netcoreapp3.1/FinalProject
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/bin/Debug/netcoreapp3.1/FinalProject.deps.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/bin/Debug/netcoreapp3.1/FinalProject.runtimeconfig.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/bin/Debug/netcoreapp3.1/FinalProject.runtimeconfig.dev.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/bin/Debug/netcoreapp3.1/FinalProject.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/bin/Debug/netcoreapp3.1/FinalProject.pdb
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/obj/Debug/netcoreapp3.1/FinalProject.csprojAssemblyReference.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/obj/Debug/netcoreapp3.1/FinalProject.AssemblyInfoInputs.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/obj/Debug/netcoreapp3.1/FinalProject.AssemblyInfo.cs
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/obj/Debug/netcoreapp3.1/FinalProject.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/FinalProject/FinalProject/obj/Debug/netcoreapp3.1/FinalProject.pdb
