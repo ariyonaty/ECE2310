@@ -1,0 +1,11 @@
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/bin/Debug/netcoreapp3.1/ECE2310_Final
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/bin/Debug/netcoreapp3.1/ECE2310_Final.deps.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/bin/Debug/netcoreapp3.1/ECE2310_Final.runtimeconfig.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/bin/Debug/netcoreapp3.1/ECE2310_Final.runtimeconfig.dev.json
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/bin/Debug/netcoreapp3.1/ECE2310_Final.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/bin/Debug/netcoreapp3.1/ECE2310_Final.pdb
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/obj/Debug/netcoreapp3.1/ECE2310_Final.csprojAssemblyReference.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/obj/Debug/netcoreapp3.1/ECE2310_Final.AssemblyInfoInputs.cache
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/obj/Debug/netcoreapp3.1/ECE2310_Final.AssemblyInfo.cs
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/obj/Debug/netcoreapp3.1/ECE2310_Final.dll
+/Users/ariyonaty/Documents/CalPoly/Spring2020/ECE2310/Final/ECE2310_Final/obj/Debug/netcoreapp3.1/ECE2310_Final.pdb
